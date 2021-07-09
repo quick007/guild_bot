@@ -1,0 +1,21 @@
+{
+  "name": "guild-discord-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/opus": "^0.3.3",
+    "@replit/database": "^2.0.1",
+    "discord.js": "^12.5.3",
+    "express": "^4.17.1",
+    "simple-youtube-api": "^5.2.1",
+    "typescript": "^4.3.5",
+    "ytdl-core": "^4.8.2"
+  }
+}
